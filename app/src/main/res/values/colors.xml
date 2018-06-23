@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#192251</color>
+    <color name="colorPrimaryDark">#10163e</color>
+    <color name="colorAccent">#ef2536</color>
+    <color name="strokeNormal">#ecefec</color>
+    <color name="strokeRevealed">#ecefec</color>
+    <color name="backgroundNormal">#847f7e</color>
+    <color name="backgroundRevealed">#dadada</color>
+
+</resources>
